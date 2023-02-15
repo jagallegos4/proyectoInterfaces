@@ -1,0 +1,381 @@
+.mediaViewInfo {
+	--web-view-name: Solicita tu plan;
+	--web-view-id: Solicita_tu_plan;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Solicita_tu_plan;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Solicita_tu_plan_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Solicita tu plan;
+	--web-view-id: Solicita_tu_plan;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.fondo_aplicacion_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_5_Class {
+	position: absolute;
+	width: 383px;
+	height: 80px;
+	left: 22px;
+	top: 82px;
+	overflow: visible;
+}
+.logo_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.INTERNET_SOLUTIONS_Class {
+	left: 77px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_6_Class {
+	position: absolute;
+	width: 126px;
+	height: 126px;
+	left: 50px;
+	top: 267px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Plan_Seleccionado.html;
+	cursor: pointer;
+}
+.Rectngulo_7_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+.n_0_Mbps_Class {
+	left: 23px;
+	top: 2px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_8_Class {
+	position: absolute;
+	width: 126px;
+	height: 126px;
+	left: 50px;
+	top: 439px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Plan_Seleccionado.html;
+	cursor: pointer;
+}
+.Rectngulo_8_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+.n_00_Mbps_Class {
+	left: 7px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_11_Class {
+	position: absolute;
+	width: 126px;
+	height: 126px;
+	left: 50px;
+	top: 619px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Plan_Seleccionado.html;
+	cursor: pointer;
+}
+.Rectngulo_10_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_10 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+.n_00_Mbps__Class {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_7_Class {
+	position: absolute;
+	width: 126px;
+	height: 127px;
+	left: 240px;
+	top: 266px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Plan_Seleccionado.html;
+	cursor: pointer;
+}
+.Rectngulo_1_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 0px;
+	top: 1px;
+}
+.n_0_Mbps__Class {
+	left: 20px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_9_Class {
+	position: absolute;
+	width: 126px;
+	height: 127px;
+	left: 240px;
+	top: 442px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Plan_Seleccionado.html;
+	cursor: pointer;
+}
+.Rectngulo_9_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 0px;
+	top: 1px;
+}
+.n_00_Mbps_ba_Class {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_10_Class {
+	position: absolute;
+	width: 126px;
+	height: 127px;
+	left: 240px;
+	top: 618px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Plan_Seleccionado.html;
+	cursor: pointer;
+}
+.Rectngulo_11_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_11 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 0px;
+	top: 1px;
+}
+.n_00_Mbps_bd_Class {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_1_Class {
+	position: absolute;
+	width: 99px;
+	height: 46px;
+	left: 15px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.volver_Class {
+	opacity: 0.67;
+	position: absolute;
+	width: 27px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Volver_bg_Class {
+	left: 33px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.SOLICITA_TU_PLAN_Class {
+	left: 48px;
+	top: 182px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}

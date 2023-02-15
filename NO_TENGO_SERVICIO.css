@@ -1,0 +1,248 @@
+.mediaViewInfo {
+	--web-view-name: NO TENGO SERVICIO;
+	--web-view-id: NO_TENGO_SERVICIO;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: NO_TENGO_SERVICIO;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.NO_TENGO_SERVICIO_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: NO TENGO SERVICIO;
+	--web-view-id: NO_TENGO_SERVICIO;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.fondo_aplicacion_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_3_Class {
+	position: absolute;
+	width: 383px;
+	height: 80px;
+	left: 22px;
+	top: 82px;
+	overflow: visible;
+}
+.logo_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.INTERNET_SOLUTIONS_Class {
+	left: 77px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_2_Class {
+	position: absolute;
+	width: 99px;
+	height: 46px;
+	left: 15px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Servicio_T_cnico.html;
+	cursor: pointer;
+}
+.volver_Class {
+	opacity: 0.67;
+	position: absolute;
+	width: 27px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Volver_y_Class {
+	left: 33px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.NO_TENGO_SERVIVIO_Class {
+	left: 37px;
+	top: 191px;
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}
+.Cdula_del_titular_de_la_lnea_Class {
+	left: 33px;
+	top: 433px;
+	position: absolute;
+	overflow: visible;
+	width: 296px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Rectngulo_37_Class {
+	opacity: 0.84;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_37 {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 65px;
+	left: 32px;
+	top: 469px;
+}
+.Cedula_Class {
+	opacity: 0.4;
+	left: 55px;
+	top: 486px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Rectngulo_42_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_42 {
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	height: 76px;
+	left: 34px;
+	top: 662px;
+}
+.ENVIAR_REPORTE_Class {
+	left: 64px;
+	top: 676px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}
+.Telfono_Class {
+	left: 29px;
+	top: 543px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Rectngulo_44_Class {
+	opacity: 0.84;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_44 {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 65px;
+	left: 29px;
+	top: 577px;
+}
+.Ingrese_telfono_Class {
+	opacity: 0.4;
+	left: 47px;
+	top: 594px;
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}

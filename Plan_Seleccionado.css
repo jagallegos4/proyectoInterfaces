@@ -1,0 +1,399 @@
+.mediaViewInfo {
+	--web-view-name: Plan Seleccionado;
+	--web-view-id: Plan_Seleccionado;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Plan_Seleccionado;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Plan_Seleccionado_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Plan Seleccionado;
+	--web-view-id: Plan_Seleccionado;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.fondo_aplicacion_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_3_Class {
+	position: absolute;
+	width: 383px;
+	height: 80px;
+	left: 22px;
+	top: 82px;
+	overflow: visible;
+}
+.logo_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.INTERNET_SOLUTIONS_Class {
+	left: 77px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_2_Class {
+	position: absolute;
+	width: 99px;
+	height: 46px;
+	left: 15px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Solicita_tu_plan.html;
+	cursor: pointer;
+}
+.volver_Class {
+	opacity: 0.67;
+	position: absolute;
+	width: 27px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Volver_y_Class {
+	left: 33px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.PLAN_SELECCINADO_Class {
+	left: 41px;
+	top: 180px;
+	position: absolute;
+	overflow: visible;
+	width: 347px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(43,152,148,1);
+}
+.Nombres_Class {
+	left: 34px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Apellidos_Class {
+	left: 34px;
+	top: 310px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Telfono_1_Class {
+	left: 34px;
+	top: 380px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Telfono_2_Class {
+	left: 34px;
+	top: 450px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Correo_Electrnico_Class {
+	left: 34px;
+	top: 520px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+
+.Provincia_Class {
+	left: 34px;
+	top: 590px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+
+.Ciudad_Class {
+	left: 34px;
+	top: 660px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+
+.Direccin_Class {
+	left: 34px;
+	top: 730px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+
+.Nombres_bg_Class {
+	left: 25px;
+	top: 270px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Apellidos_bi_Class {
+	left: 25px;
+	top: 340px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Telfono_1_bk_Class {	
+	left: 25px;
+	top: 410px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Telfono_2_bm_Class {
+	left: 25px;
+	top: 480px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Correo_Electrnico_bh_Class {
+	left: 25px;
+	top: 550px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+
+.Provincia_bj_Class {
+	left: 25px;
+	top: 620px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+
+.Ciudad_bl_Class {
+	
+	left: 25px;
+	top: 690px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+
+.Direccin_bn_Class {
+	left: 25px;
+	top: 760px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+
+.Enviar_Class {
+	left: 100px;
+	top: 830px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}
+
+.ingresoDatos{
+	border: solid 2px;
+	opacity: 0.7;
+	border-radius: 5px;
+	width: 350px;
+	height: 35px;
+	font-size: 25px;
+	margin-left: 10px;
+	padding-left: 5px;	
+}
+
+.botones{
+	border: solid 1px;
+	border-radius: 50px;
+	opacity: 0.9;
+	width: 200px;
+	height: 50px;
+	font-size: 25px;
+	margin-left: 10px;
+	padding-left: 5px;
+	cursor: pointer;
+	color: rgba(43,152,148,1);
+}
+
+.botones:hover{
+    background-color: rgba(43,152,148,1);
+    color: #fff;
+	border: solid 1px rgba(43,152,148,1);
+}

@@ -1,0 +1,295 @@
+.mediaViewInfo {
+	--web-view-name: Cambio de Domicilio;
+	--web-view-id: Cambio_de_Domicilio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Cambio_de_Domicilio;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Cambio_de_Domicilio_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Cambio de Domicilio;
+	--web-view-id: Cambio_de_Domicilio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.fondo_aplicacion_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_3_Class {
+	position: absolute;
+	width: 383px;
+	height: 80px;
+	left: 22px;
+	top: 82px;
+	overflow: visible;
+}
+.logo_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.INTERNET_SOLUTIONS_Class {
+	left: 77px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_2_Class {
+	position: absolute;
+	width: 99px;
+	height: 46px;
+	left: 15px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Atenci_n_al_cliente.html;
+	cursor: pointer;
+}
+.volver_Class {
+	opacity: 0.67;
+	position: absolute;
+	width: 27px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Volver_y_Class {
+	left: 33px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.CAMBIO_DE_DOMICILIO_Class {
+	left: 14px;
+	top: 191px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}
+.Cdula_del_titular_de_la_lnea_Class {
+	left: 31px;
+	top: 269px;
+	position: absolute;
+	overflow: visible;
+	width: 296px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Ciudad_Class {
+	left: 30px;
+	top: 509px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Direccin_Nueva_Class {
+	left: 30px;
+	top: 628px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.Rectngulo_29_Class {
+	opacity: 0.84;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_29 {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 65px;
+	left: 30px;
+	top: 305px;
+}
+.Rectngulo_31_Class {
+	opacity: 0.84;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_31 {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 65px;
+	left: 30px;
+	top: 543px;
+}
+.Rectngulo_32_Class {
+	opacity: 0.84;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_32 {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 65px;
+	left: 30px;
+	top: 662px;
+}
+.Cedula_Class {
+	opacity: 0.4;
+	left: 53px;
+	top: 322px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Ingrese_ciudad_Class {
+	opacity: 0.4;
+	left: 48px;
+	top: 560px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Direccin_Class {
+	opacity: 0.4;
+	left: 48px;
+	top: 679px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Rectngulo_33_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_33 {
+	position: absolute;
+	overflow: visible;
+	width: 357px;
+	height: 76px;
+	left: 36px;
+	top: 791px;
+}
+.Enviar_Class {
+	left: 166px;
+	top: 805px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}

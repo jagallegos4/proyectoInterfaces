@@ -1,0 +1,169 @@
+.mediaViewInfo {
+	--web-view-name: Chatea;
+	--web-view-id: Chatea;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Chatea;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Chatea_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Chatea;
+	--web-view-id: Chatea;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.fondo_aplicacion_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_3_Class {
+	position: absolute;
+	width: 383px;
+	height: 80px;
+	left: 22px;
+	top: 82px;
+	overflow: visible;
+}
+.logo_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.INTERNET_SOLUTIONS_Class {
+	left: 77px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_2_Class {
+	position: absolute;
+	width: 99px;
+	height: 46px;
+	left: 15px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.volver_Class {
+	opacity: 0.67;
+	position: absolute;
+	width: 27px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Volver_y_Class {
+	left: 33px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.CHATEA_Class {
+	left: 144px;
+	top: 187px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}
+.whatsapp-logo-png_Class {
+	position: absolute;
+	width: 179px;
+	height: 179px;
+	left: 125px;
+	top: 331px;
+	overflow: visible;
+}
+.whatsapp-logo-png__Class {
+	position: absolute;
+	width: 179px;
+	height: 179px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Chatea_con_Nosotros_Class {
+	left: 112px;
+	top: 520px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+
+.botones{
+	border: solid 1px;
+	border-radius: 50px;
+	width: 200px;
+	height: 40px;
+	font-size: 17px;
+	cursor: pointer;
+	color: rgba(43,152,148,1);
+}
+
+.botones:hover{
+    background-color: rgba(43,152,148,1);
+    color: #fff;
+	border: solid 1px rgba(43,152,148,1);
+}

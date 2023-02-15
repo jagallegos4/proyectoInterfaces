@@ -1,0 +1,231 @@
+.mediaViewInfo {
+	--web-view-name: Atención al cliente;
+	--web-view-id: Atencin_al_cliente;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Atencin_al_cliente;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Atencin_al_cliente_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Atención al cliente;
+	--web-view-id: Atencin_al_cliente;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.fondo_aplicacion_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_3_Class {
+	position: absolute;
+	width: 383px;
+	height: 80px;
+	left: 22px;
+	top: 82px;
+	overflow: visible;
+}
+.logo_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.INTERNET_SOLUTIONS_Class {
+	left: 77px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(43,152,148,1);
+}
+.Grupo_2_Class {
+	position: absolute;
+	width: 99px;
+	height: 46px;
+	left: 15px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.volver_Class {
+	opacity: 0.67;
+	position: absolute;
+	width: 27px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Volver_y_Class {
+	left: 33px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(43,152,148,1);
+}
+.ATENCIN_AL_CLIENTE_Class {
+	left: 21px;
+	top: 182px;
+	position: absolute;
+	overflow: visible;
+	width: 387px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(43,152,148,1);
+}
+.Rectngulo_12_Class {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_12 {
+	position: absolute;
+	overflow: visible;
+	width: 354px;
+	height: 90px;
+	left: 37px;
+	top: 280px;
+}
+.Rectngulo_13_Class {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_13 {
+	position: absolute;
+	overflow: visible;
+	width: 354px;
+	height: 90px;
+	left: 37px;
+	top: 419px;
+}
+.Rectngulo_14_Class {
+	opacity: 0.65;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_14 {
+	position: absolute;
+	overflow: visible;
+	width: 354px;
+	height: 90px;
+	left: 37px;
+	top: 558px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: MIS_FACTURAS.html;
+	cursor: pointer;
+}
+.Cambio_de_Domicilio_Class {
+	left: 87px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Cambio_de_Domicilio.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(43,152,148,1);
+}
+.Aumento_de_Velocidad_Class {
+	left: 73px;
+	top: 445px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: AUMENTO_VELOCIDAD.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(43,152,148,1);
+}
+.Mis_Facturas_Class {
+	left: 136px;
+	top: 585px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(43,152,148,1);
+}

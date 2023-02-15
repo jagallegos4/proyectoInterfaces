@@ -1,0 +1,324 @@
+.mediaViewInfo {
+	--web-view-name: Inicio;
+	--web-view-id: Inicio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Inicio;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Inicio_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Inicio;
+	--web-view-id: Inicio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.fondo_aplicacion_Class {
+	position: absolute;
+	width: 428px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logo_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 22px;
+	top: 82px;
+	overflow: visible;
+}
+.INTERNET_SOLUTIONS_Class {
+	left: 99px;
+	top: 109px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(43,152,148,1);
+}
+.Rectngulo_1_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 50px;
+	top: 191px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Solicita_tu_plan.html;
+	cursor: pointer;
+}
+.Rectngulo_2_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 240px;
+	top: 191px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Atenci_n_al_cliente.html;
+	cursor: pointer;
+}
+.Rectngulo_6_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 240px;
+	top: 543px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Chatea.html;
+	cursor: pointer;
+}
+.Rectngulo_5_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 50px;
+	top: 543px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Llamame.html;
+	cursor: pointer;
+}
+.solicita_plan_Class {
+	position: absolute;
+	width: 84px;
+	height: 73px;
+	left: 70px;
+	top: 197px;
+	overflow: visible;
+}
+.Solicita_tu_plan_Class {
+	left: 83px;
+	top: 267px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,152,148,1);
+}
+.llamame_Class {
+	left: 83px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,152,148,1);
+}
+.Chat_Class {
+	left: 284px;
+	top: 639px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,152,148,1);
+}
+.llamame__Class {
+	position: absolute;
+	width: 81px;
+	height: 81px;
+	left: 72px;
+	top: 547px;
+	overflow: visible;
+}
+.atencion_cliente_Class {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 270px;
+	top: 200px;
+	overflow: visible;
+}
+.Rectngulo_3_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 50px;
+	top: 367px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Pagos_en_L_nea.html;
+	cursor: pointer;
+}
+.Pagos_en_Linea_Class {
+	left: 78px;
+	top: 445px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,152,148,1);
+}
+.pagos_Class {
+	position: absolute;
+	width: 78px;
+	height: 78px;
+	left: 76px;
+	top: 368px;
+	overflow: visible;
+}
+.Rectngulo_4_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 126px;
+	left: 240px;
+	top: 367px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Servicio_T_cnico.html;
+	cursor: pointer;
+}
+.Servicio_Tecnico_Class {
+	left: 274px;
+	top: 445px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,152,148,1);
+}
+.serv_tec_Class {
+	position: absolute;
+	width: 74px;
+	height: 74px;
+	left: 266px;
+	top: 371px;
+	overflow: visible;
+}
+.chat_Class {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 279px;
+	top: 552px;
+	overflow: visible;
+}
+.Atencin_al_Cliente_Class {
+	left: 256px;
+	top: 267px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Candara;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,152,148,1);
+}
